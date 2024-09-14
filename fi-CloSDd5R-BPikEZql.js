@@ -6,4 +6,3 @@ const a = [
 export {
   a as Fi
 };
-//# sourceMappingURL=fi-CloSDd5R-BPikEZql.js.map

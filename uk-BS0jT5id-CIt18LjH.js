@@ -6,4 +6,3 @@ const o = [
 export {
   o as Uk
 };
-//# sourceMappingURL=uk-BS0jT5id-CIt18LjH.js.map

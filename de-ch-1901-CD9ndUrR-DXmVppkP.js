@@ -6,4 +6,3 @@ const e = [
 export {
   e as DeCh1901
 };
-//# sourceMappingURL=de-ch-1901-CD9ndUrR-DXmVppkP.js.map

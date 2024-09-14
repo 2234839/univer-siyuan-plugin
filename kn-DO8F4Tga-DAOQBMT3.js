@@ -6,4 +6,3 @@ const n = [
 export {
   n as Kn
 };
-//# sourceMappingURL=kn-DO8F4Tga-DAOQBMT3.js.map

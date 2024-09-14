@@ -6,4 +6,3 @@ const o = [
 export {
   o as ElPolyton
 };
-//# sourceMappingURL=el-polyton-3hQ3_5V8-cc2dKcNi.js.map

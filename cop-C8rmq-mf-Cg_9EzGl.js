@@ -6,4 +6,3 @@ const o = [
 export {
   o as Cop
 };
-//# sourceMappingURL=cop-C8rmq-mf-Cg_9EzGl.js.map

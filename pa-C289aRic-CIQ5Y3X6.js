@@ -6,4 +6,3 @@ const o = [
 export {
   o as Pa
 };
-//# sourceMappingURL=pa-C289aRic-CIQ5Y3X6.js.map

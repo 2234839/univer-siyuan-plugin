@@ -6,4 +6,3 @@ const o = [
 export {
   o as Bg
 };
-//# sourceMappingURL=bg-CREWvG4t-BROkuUw0.js.map

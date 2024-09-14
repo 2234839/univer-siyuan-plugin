@@ -6,4 +6,3 @@ const r = [
 export {
   r as Tr
 };
-//# sourceMappingURL=tr-BRmPg68h-BR64TmVY.js.map

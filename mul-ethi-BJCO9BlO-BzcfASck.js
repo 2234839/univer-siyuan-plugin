@@ -6,4 +6,3 @@ const t = [
 export {
   t as MulEthi
 };
-//# sourceMappingURL=mul-ethi-BJCO9BlO-BzcfASck.js.map

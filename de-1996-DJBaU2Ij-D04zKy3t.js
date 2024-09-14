@@ -6,4 +6,3 @@ const e = [
 export {
   e as De1996
 };
-//# sourceMappingURL=de-1996-DJBaU2Ij-D04zKy3t.js.map

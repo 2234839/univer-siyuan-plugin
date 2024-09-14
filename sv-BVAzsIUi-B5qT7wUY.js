@@ -6,4 +6,3 @@ const s = [
 export {
   s as Sv
 };
-//# sourceMappingURL=sv-BVAzsIUi-B5qT7wUY.js.map

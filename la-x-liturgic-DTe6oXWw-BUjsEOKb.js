@@ -6,4 +6,3 @@ const i = [
 export {
   i as LaXLiturgic
 };
-//# sourceMappingURL=la-x-liturgic-DTe6oXWw-BUjsEOKb.js.map

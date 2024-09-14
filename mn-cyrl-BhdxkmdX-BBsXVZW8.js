@@ -6,4 +6,3 @@ const n = [
 export {
   n as MnCyrl
 };
-//# sourceMappingURL=mn-cyrl-BhdxkmdX-BBsXVZW8.js.map

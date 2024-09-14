@@ -6,4 +6,3 @@ const o = [
 export {
   o as ElMonoton
 };
-//# sourceMappingURL=el-monoton-C7Dj3t8L-BCxophpw.js.map

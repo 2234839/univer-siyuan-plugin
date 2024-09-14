@@ -123,4 +123,3 @@ const o = [
 export {
   o as ShCyrl
 };
-//# sourceMappingURL=sh-cyrl-B2Lh5Alp-vs7LrXMi.js.map

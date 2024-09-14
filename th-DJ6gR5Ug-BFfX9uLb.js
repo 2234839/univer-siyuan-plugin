@@ -6,4 +6,3 @@ const o = [
 export {
   o as Th
 };
-//# sourceMappingURL=th-DJ6gR5Ug-BFfX9uLb.js.map

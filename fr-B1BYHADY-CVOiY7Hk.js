@@ -6,4 +6,3 @@ const t = [
 export {
   t as Fr
 };
-//# sourceMappingURL=fr-B1BYHADY-CVOiY7Hk.js.map

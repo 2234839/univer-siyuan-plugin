@@ -6,4 +6,3 @@ const a = [
 export {
   a as Is
 };
-//# sourceMappingURL=is-i5pSEnjg-CIYOndu4.js.map

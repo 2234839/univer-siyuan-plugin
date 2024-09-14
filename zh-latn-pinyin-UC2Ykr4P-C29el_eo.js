@@ -6,4 +6,3 @@ const t = [
 export {
   t as ZhLatnPinyin
 };
-//# sourceMappingURL=zh-latn-pinyin-UC2Ykr4P-C29el_eo.js.map

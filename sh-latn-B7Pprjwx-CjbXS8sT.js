@@ -123,4 +123,3 @@ const j = [
 export {
   j as ShLatn
 };
-//# sourceMappingURL=sh-latn-B7Pprjwx-CjbXS8sT.js.map

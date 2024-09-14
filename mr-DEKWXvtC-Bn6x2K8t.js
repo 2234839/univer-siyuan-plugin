@@ -6,4 +6,3 @@ const o = [
 export {
   o as Mr
 };
-//# sourceMappingURL=mr-DEKWXvtC-Bn6x2K8t.js.map

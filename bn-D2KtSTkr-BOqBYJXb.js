@@ -6,4 +6,3 @@ const n = [
 export {
   n as Bn
 };
-//# sourceMappingURL=bn-D2KtSTkr-BOqBYJXb.js.map

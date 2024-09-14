@@ -6,4 +6,3 @@ const c = [
 export {
   c as MnCyrlXLmc
 };
-//# sourceMappingURL=mn-cyrl-x-lmc-BGezHEbR-BVlv2lTY.js.map

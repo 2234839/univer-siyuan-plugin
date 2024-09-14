@@ -6,4 +6,3 @@ const u = [
 export {
   u as LaXClassic
 };
-//# sourceMappingURL=la-x-classic-DfZknpxy-CaVCyU_Q.js.map

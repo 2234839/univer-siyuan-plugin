@@ -6,4 +6,3 @@ const r = [
 export {
   r as Fur
 };
-//# sourceMappingURL=fur-CBBh0qht-BfxkaO05.js.map

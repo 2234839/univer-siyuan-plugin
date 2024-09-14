@@ -6,4 +6,3 @@ const c = [
 export {
   c as Grc
 };
-//# sourceMappingURL=grc-C45HXf-r-DVfTDU-B.js.map
